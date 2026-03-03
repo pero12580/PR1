@@ -1,1 +1,0 @@
-Antonio Meleš, aMeles593 ocekujem dobar projekt
