@@ -1,1 +1,1 @@
-#novi file
+#samo testiram s cursorom nesto
