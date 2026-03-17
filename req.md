@@ -12,14 +12,13 @@
 
 ## User storyji
 US-01 Kao user, želim se moći prijaviti i ostaviti ticket (zatražit pomoć).
-      kako bih mogao doći u kontakt s IT službom.
-US-02 Kao user, želim moći vidjet status svog ticketa (delivered, seen, assigned, solved).
+      kako bih mogao doći u kontakt s IT službom.<br>
+US-02 Kao user, želim moći vidjet status svog ticketa (delivered, seen, assigned, solved).<br>
 US-03 Kao support, želim se moći prijaviti i vidjeti sve tickete stavljene od usera
-      kako bi ih mogao rješiti.
+      kako bi ih mogao rješiti.<br>
 US-04 Kao admin, želim se moći prijaviti i assignati tickete supportu kako bi ih
-      mogli rješiti. 
+      mogli rješiti.<br>
 US-05 Kao admin, želim moći dodati prioritet ticketa.
-
 ## Funkcijski zahjtevi
 FZ-01 Sustav mora omogućiti prijavu.<br>
 FZ-02 Sustav omogućuje tri razine pristupa (korisnik, support, admin).<br>
