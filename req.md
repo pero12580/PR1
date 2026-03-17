@@ -43,7 +43,7 @@ NZ-07 Sustav ne smije uzeti više od 5 minuta slanja ticketa, te vraćanja odgov
 
 ## Taskovi
 TASK-01 Napraviti model baze za helpdesk / ticketing sustav<br>
-TASK-02 Implementirati API za dohvaćanje ticketa<br>
+TASK-02 Implementirati API endpoint ticket<br>
 TASK-03 Implementirati API endpoint user<br>
 TASK-04 Implementirati API endpoint support<br>
 TASK-05 Implementirati API endpoint admin<br>
